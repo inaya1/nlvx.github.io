@@ -2,11 +2,11 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Explore World Travel Destinations with Guide Tour</title>
-<link rel="icon" href="images/favicon-guidetour.png" type="image/x-icon" />
-<meta name="title" content="Explore World Travel Destinations with Guide Tour - Make Your Tour">
-<meta name="description" content="Explore Travel Destinations with Guidetour, Find all Indian Tourist Places and Destinations Details, Looking for the best tourist places">
-<meta name="keywords" content="Tourist Places in India, Awesome Places In India, Things to See and Do in Delhi, Places In South India">
+<title>NLVX Launches Its Mobile Application to Bring Forex to Your Fingertips</title>
+<link rel="icon" href="https://nlvx.com/images/favicon.ico" type="image/x-icon" />
+<meta name="title" content="NLVX Launches Its Mobile Application to Bring Forex to Your Fingertips">
+<meta name="description" content="NLVX Launches Its Mobile Application to Bring Forex to Your Fingertips">
+<meta name="keywords" content="nlvx exchange, nlvx review, nlvx forex trading, NLVX Account types">
 <meta name="robots" content="index, follow">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="language" content="English">
@@ -26,17 +26,16 @@
 	<header>
     	<div class="container">
         	<div class="logo text-center">
-            	<img src="https://guidetour.in/wp-content/uploads/2021/04/logo-mobile.png" alt="guidetour logo" class="img-fluid" />
+            	<a href="https://nlvx.com" target="_blank"><img src="https://nlvx.com/images/logo.png" alt="guidetour logo" class="img-fluid" /></a>
             </div>
         </div>
     </header>
     <section class="banner">
     	<div class="container">
         	<div class="banner-content">
-            	<h1>Explore World Travel Destinations - With <a href="https://guidetour.in">Guide Tour</a></h1>
-                <p>Looking for the best tourist places and tour destinations in India? If that is the case then you have come to the right place as here
-                on this website you will get to know the best sightseeing places in India under one roof.</p>
-                <p><a href="#">Explore More Travel Destinations</a></p>
+            	<h1><a href="nlvx.com">NLVX</a> Launches Its Mobile Application to Bring Forex to Your Fingertips</h1>
+               
+                <p><a href="https://play.google.com/store/apps/details?id=com.nlvx.nlvx" target="_blank">Download App</a></p>
             </div>
         </div>
         <div class="clearfix"></div>
@@ -44,104 +43,40 @@
     
     <section class="body-content">
     	<div class="container">
-        	<h2 class="text-center">Popular Post</h2>
-        	<div class="row">
-            	<div class="col-sm-6">
-                	<div class="row align-items-center">
-                    	<div class="col-md-6">
-                        	<img src="images/Top-4-Water-Parks-in-Kanpur.jpg" alt="" class="img-fluid" />
-                        </div>
-                        <div class="col-md-6">
-                        	<div class="content-details">
-                            	<h3>Kanpur Water Park Blue World</h3>
-                                <p>Kanpur Water Park Kanpur is a noteworthy city in Uttar Pradesh and is a beautiful place to live in. Not just there are some stunning shopping markets in Kanpur; however,</p>
-                                <a href="https://guidetour.in/kanpur-water-park/">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6">
-                	<div class="row align-items-center">
-                    	<div class="col-md-6">
-                        	<img src="images/amarnath-yatra.jpg" alt="" class="img-fluid" />
-                        </div>
-                        <div class="col-md-6">
-                        	<div class="content-details">
-                            	<h3>Amarnath Yatra</h3>
-                                <p>Amarnath Yatra: Amarnath is located at a distance of 145 km east Srinagar in the state of Jammu and Kashmir. It stands in a glacial valley at an elevation of 4,175 m.</p>
-                                <a href="https://guidetour.in/amarnath-yatra/">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-            	<div class="col-sm-6">
-                	<div class="row align-items-center">
-                    	<div class="col-md-6">
-                        	<img src="images/Things-to-See-and-Do-in-Delhi.jpg" alt="" class="img-fluid" />
-                        </div>
-                        <div class="col-md-6">
-                        	<div class="content-details">
-                            	<h3>Things to See and Do in Delhi</h3>
-                                <p>Delhi, the capital of India and home to an estimated 18 million people, is a thriving urban sprawl that does not often win many fans from visiting tourists.</p>
-                                <a href="https://guidetour.in/things-to-see-and-do-in-delhi/">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6">
-                	<div class="row align-items-center">
-                    	<div class="col-md-6">
-                        	<img src="images/Awesome-Places-In-India.jpg" alt="" class="img-fluid" />
-                        </div>
-                        <div class="col-md-6">
-                        	<div class="content-details">
-                            	<h3>Awesome Places In India</h3>
-                                <p>India is mysterious yet manages to be one of the most interesting destinations you will ever have visited. Some places are quirky,</p>
-                                <a href="#">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-            	<div class="col-sm-6">
-                	<div class="row align-items-center">
-                    	<div class="col-md-6">
-                        	<img src="images/Best-Budget-Destinations.jpg" alt="" class="img-fluid" />
-                        </div>
-                        <div class="col-md-6">
-                        	<div class="content-details">
-                            	<h3>Best Budget Destinations</h3>
-                                <p>est Budget Destinations: It has been seen that most of our trips get canceled only because they exceed our budget. Not to worry, we have a solution.</p>
-                                <a href="https://guidetour.in/best-budget-destinations/">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6">
-                	<div class="row align-items-center">
-                    	<div class="col-md-6">
-                        	<img src="images/Char-Dham.jpg" alt="" class="img-fluid" />
-                        </div>
-                        <div class="col-md-6">
-                        	<div class="content-details">
-                            	<h3>Char Dham</h3>
-                                <p>Char Dham yatra – this Uttaranchal Dham is incorporated into North Badrinath, in South Rameshwaram Temple, </p>
-                                <a href="https://guidetour.in/char-dham/">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+        	
+        	 <p>Exciting news for all the investors who intend to make the most of their money; <a href="https://nlvx.com/">NLVX</a> launches a foolproof mobile application to offer an easy and seamless forex experience to its users. NLVX has been contributing hugely to bringing the foreign exchange to the next level, and now with their application, they are allowing their investors to trade through their smartphones.</p>
+
+                <p>While the professionals of NLVX are well-known to guide their investors or users perfectly and patiently to learn the art of FX trading, their app has been developed with a user-friendly UI and UX to offer its visitors the best FX experiences. The experts from NLVX will even offer their associated traders training to understand their app and its functioning.</p>
+
+                <h2>NLVX: Valued by Investors Worldwide</h2>
                 
-            </div>
+                <p>For investors, working with a credible broker with a license is a safe bet; that’s what NLVX affirms to its users by checking the regulatory bodies' reviews periodically and functioning accordingly. Being a well-reviewed broker, NLVX is worth its salt and is trusted by countless investors with all their money. </p>
+
+                <p>NLVX understands the norms that are necessary for maintaining business standards and protecting clients. Going by the same token, NLVX never discourages its clients from becoming educated rather offers them best-in-class and extensive education before they start trading.</p>
+        </div>
+        
+        <a href="https://play.google.com/store/apps/details?id=com.nlvx.nlvx" target="_blank"><img  class="mb-4" src="images/nlvx-androia-app.jpg" alt="" width="100%" /></a>
+
+        <div class="container">        
+
+                <p>The Forex market is built on trust and compliance, that’s why, NLVX complies with the necessary standards to ensure safekeeping of their clients' funds. Due to NLVX’s strict adherence to its security norms and avoidance to implement shoddy practices, it helps to protect customers against immoral forex practices. NLVX ensures that all the regulations are in place to keep traders’ money protected. The same will implement in their newly launched mobile app as well. </p>
+
+                <h2>Mobile Application Opening New Doors to Forex Practices</h2>
+
+                <p>NLVX’s move to launch its app originates from the fact that users nowadays opt for handy solutions. 
+                With the app, they can monitor different currency pairs in real-time, keep track of the fluctuations and place their trades accordingly. The users can even set up alerts for specific prices and make decisions on a real-time basis. The app even includes varied tools to help investors trade more effectively and profitably.</p>
+
+                <p>With the rise of global news and developments, Forex prices are constantly fluctuating, and investors need to be able to analyze them easily and accurately. NLVX’s app can help traders get to the market with ease and make more informed decisions. NLVX is launching its iOS and Android app that offers advanced mobile charting functionality. It also provides tools and favorite currency pairs. Users can also use the app to receive mobile notifications and to see dynamic pricing overlays.</p>
+
+                <h3>The Final Say</h3>
+                <p>The purpose of launching a mobile app, as mentioned by NLVX, is to make it easier for users to monitor their trading accounts. If you are willing to associate with a trustworthy forex broker on your way to make apt use of your money, join NLVX and start trading on the go. To open doors for more opportunities and to be more successful in forex, contact <a href="https://nlvx.com/">NLVX Exchange</a> and let their expertise help you flourish!</p>
+
         </div>
     </section>
     
     <footer>
     	<div class="container">
-        	<p>&copy; <script>document.write( new Date().getFullYear() );</script> Guidetour.in <span class="float-end"><a href="https://guidetour.in/contact/">Contact Us</a></span></p>
+        	<p>&copy; <script>document.write( new Date().getFullYear() );</script> NLVX.in <span class="float-end"><a href="https://nlvx.com/contact/">Contact Us</a></span></p>
         </div>
     </footer>
     
